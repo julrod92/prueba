@@ -3,11 +3,11 @@ svn:wc:ra_dav:version-url
 V 62
 /svn/eafit_pi1_20131_guiarte/!svn/ver/18/trunk/GuiarteHTML/www
 END
-AgregarLugar.html
+Administrar.html
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/eafit_pi1_20131_guiarte/!svn/ver/25/trunk/GuiarteHTML/www/AgregarLugar.html
+V 79
+/svn/eafit_pi1_20131_guiarte/!svn/ver/28/trunk/GuiarteHTML/www/Administrar.html
 END
 cordova-2.4.0.js
 K 25
@@ -19,7 +19,7 @@ Visitados.html
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svn/eafit_pi1_20131_guiarte/!svn/ver/24/trunk/GuiarteHTML/www/Visitados.html
+/svn/eafit_pi1_20131_guiarte/!svn/ver/27/trunk/GuiarteHTML/www/Visitados.html
 END
 index.html
 K 25
@@ -37,11 +37,11 @@ Inicio.html
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svn/eafit_pi1_20131_guiarte/!svn/ver/25/trunk/GuiarteHTML/www/Inicio.html
+/svn/eafit_pi1_20131_guiarte/!svn/ver/26/trunk/GuiarteHTML/www/Inicio.html
 END
 Destacados.html
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svn/eafit_pi1_20131_guiarte/!svn/ver/24/trunk/GuiarteHTML/www/Destacados.html
+/svn/eafit_pi1_20131_guiarte/!svn/ver/27/trunk/GuiarteHTML/www/Destacados.html
 END
